@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: white;
+    /* removes underline */
+    text-decoration: none;
+    
+}
+
+/* removes bullets */
+ul {
+    list-style-type: none;
+}
+
+ol {
+    text-align: left;
+}
+
+a:hover  {
+    color: pink;
+    
+}
